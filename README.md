@@ -8,6 +8,7 @@ Step 2 : Resume Changer
   - Research specific
   - LLM Specific
   - NLP specific
+  - Data Science Specific
   - if you are really interesed in a partcular company then create a seperate resume for that company specifically
 - ask llm to select one of them based on job description
 - makes job desc specifict 'keywork changes' in resume
